@@ -61,7 +61,9 @@ html {
 
 .download-button {
     margin: 5% 3% 5% 0;
+    
 }
+
 /* ------------------img title---------------------- */
 .title .img-title{ 
     width: 250px;
@@ -162,4 +164,42 @@ h2 {
 }
 .btn-outline-dark:hover{
     background-color:  var(--back-color);
+}
+
+/* ------------------cta---------------------- */
+
+.cta {
+    background-color: var(--back-color);
+    color: var(--back-white);
+    text-align: center;
+    padding: 5% 20%;
+}
+.cta h2 {
+    margin-bottom: 50px;
+    font-size: 2.5rem;
+}
+.cta .download-button {
+margin: 10px 10px;
+}
+
+/* ------------------FOOTER---------------------- */
+.footer {
+    margin: 100px;
+    text-align: center;
+    
+   
+}
+.icons-footer a {
+    margin: 1% 10px;
+    color: black;
+    font-size: 1.5rem;
+
+}
+.icons-footer i:hover {
+    color: var(--back-color);
+
+}
+.footer p {
+margin-top: 20px;
+font-size: 1rem;
 }

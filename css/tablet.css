@@ -1,0 +1,17 @@
+.title .img-title{ 
+    width: 20%;
+    transform: rotate(25deg);
+    margin: 5% 5% 0 5% ;
+    position: absolute;
+
+}
+
+.title {
+    text-align: left;
+ 
+}
+.features {
+    position: relative;
+ 
+    
+}
